@@ -1,13 +1,15 @@
-# Assignment
+Finally it's here! We are going to do some hard work to complete the front end of our Get Things Done app. Since you already went through a warmup exercise in the previous section, you should have no issues working on this one. 
 
-Welcome to your first assignment! We will keep things simple!
-Your goal is to:
 
-1. Add the "Get Things Done" header
-2. Render the initial list of tasks with Task1, Task2, and Task 3
+You have the following goals:
 
-Your final output should look as the following:
+1. Complete the task by clicking on the checkbox
+1. Render line through completed tasks
+1. Delete assignment
+1. Show the number of ACTIVE assignments
+1. Add task via the input and make it active
 
-![final](https://skillpies.s3.ap-southeast-2.amazonaws.com/courses/3myFj3C3s45Lw7am7p/sections/UcDgJBMv00Wy2R2uh3/Screenshot%202024-04-19%20at%2011.50.43.png)
+This is a short demo of what we expect from the application functionality:
 
-In case of issues, please follow instructions at [Skillpies](https://www.skillpies.com/course/full-stack-development-get-things-done/github-classroom)
+![Get Things Done - Finalised Front End](https://skillpies.s3.ap-southeast-2.amazonaws.com/courses/3myFj3C3s45Lw7am7p/sections/GlFkIwougYVL2PpR95/gtd.gif)
+Get Things Done - Finalised Front End
